@@ -1,1 +1,1 @@
-<iframe width="1801" height="1147" src="https://www.youtube.com/embed/5fpk4BvgB-0" title="Veil (KOTTERI!) Scene 19: Temperature of the heart animation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<img width="726" height="463" alt="Image" src="https://github.com/user-attachments/assets/97995f16-468e-4eac-8105-5477a3ed5749" />
